@@ -1,0 +1,12 @@
+name: "Geotab"
+description: "Telematics platform providing GPS tracking, engine diagnostics, and fleet analytics via the GO device and MyGeotab interface. Targets commercial fleets of all sizes. Paid subscription with marketplace integrations."
+source_url: "https://www.geotab.com/"
+category: "GPS Tracking & Telematics"
+tags:
+  - "enterprise"
+  - "api"
+  - "telematics"
+  - "diagnostics"
+icon_url: "https://icons.duckduckgo.com/ip3/www.geotab.com.ico"
+markdown: "## Pricing\n\nEnterprise.\n\n## Links\n\n- Website: <https://www.geotab.com/>\n"
+updated_at: "2026-11-21 20:09"

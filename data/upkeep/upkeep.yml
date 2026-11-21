@@ -1,0 +1,12 @@
+name: "UpKeep"
+description: "Mobile-first CMMS and fleet maintenance software for work orders, preventive maintenance, and asset tracking. Used by maintenance and reliability teams. Paid subscription with tiered plans."
+source_url: "https://www.upkeep.com/"
+category: "Fleet Maintenance"
+tags:
+  - "freemium"
+  - "api"
+  - "fleet-maintenance"
+  - "cmms"
+icon_url: "https://icons.duckduckgo.com/ip3/www.upkeep.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://www.upkeep.com/>\n"
+updated_at: "2026-11-21 20:09"

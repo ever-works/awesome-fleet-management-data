@@ -1,0 +1,12 @@
+name: "Webfleet"
+description: "TomTom's fleet telematics solution offering vehicle tracking, driver behavior monitoring, and job dispatch. Integrates with TomTom navigation and third-party tools. Paid subscription."
+source_url: "https://www.webfleet.com/"
+category: "GPS Tracking & Telematics"
+tags:
+  - "paid"
+  - "api"
+  - "gps-tracking"
+  - "navigation"
+icon_url: "https://icons.duckduckgo.com/ip3/www.webfleet.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://www.webfleet.com/>\n"
+updated_at: "2026-11-21 20:09"

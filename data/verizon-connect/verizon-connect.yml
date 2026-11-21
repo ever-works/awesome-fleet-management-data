@@ -1,0 +1,12 @@
+name: "Verizon Connect"
+description: "Fleet tracking and telematics solution offering GPS location, driver safety, compliance, and asset tracking. Integrates with Verizon network services. Paid subscription for enterprise and SMB fleets."
+source_url: "https://www.verizonconnect.com/"
+category: "Fleet Management"
+tags:
+  - "enterprise"
+  - "api"
+  - "telematics"
+  - "gps-tracking"
+icon_url: "https://icons.duckduckgo.com/ip3/www.verizonconnect.com.ico"
+markdown: "## Pricing\n\nEnterprise.\n\n## Links\n\n- Website: <https://www.verizonconnect.com/>\n"
+updated_at: "2026-11-21 20:09"

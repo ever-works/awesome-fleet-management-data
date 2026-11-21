@@ -1,0 +1,12 @@
+name: "Fleetbase"
+description: "Open-source fleet management platform for vehicle tracking, maintenance, and dispatch. Self-hostable with a modular architecture and API. Community-driven and free to deploy."
+source_url: "https://fleetbase.io/"
+category: "Fleet Management"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "api"
+  - "fleet-management"
+icon_url: "https://icons.duckduckgo.com/ip3/fleetbase.io.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://fleetbase.io/>\n- Repository: <https://github.com/fleetbase/fleetbase>\n\nLicense: MIT.\n"
+updated_at: "2026-11-21 20:09"

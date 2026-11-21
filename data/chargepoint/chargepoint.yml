@@ -1,0 +1,12 @@
+name: "ChargePoint"
+description: "EV charging network and fleet management software for charging station operations, driver access, and energy tracking. Supports commercial EV fleet deployment. Paid subscription."
+source_url: "https://www.chargepoint.com/"
+category: "EV Fleet Tools"
+tags:
+  - "paid"
+  - "api"
+  - "ev-charging"
+  - "fleet"
+icon_url: "https://icons.duckduckgo.com/ip3/www.chargepoint.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://www.chargepoint.com/>\n"
+updated_at: "2026-11-21 20:09"

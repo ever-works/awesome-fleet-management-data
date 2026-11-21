@@ -1,0 +1,46 @@
+- id: paid
+  name: "Paid"
+- id: enterprise
+  name: "Enterprise"
+- id: api
+  name: "API"
+- id: ai-powered
+  name: "AI-Powered"
+- id: eld
+  name: "ELD"
+- id: dash-cam
+  name: "Dash Cam"
+- id: compliance
+  name: "Compliance"
+- id: telematics
+  name: "Telematics"
+- id: diagnostics
+  name: "Diagnostics"
+- id: gps-tracking
+  name: "GPS Tracking"
+- id: fleet-maintenance
+  name: "Fleet Maintenance"
+- id: cmms
+  name: "CMMS"
+- id: navigation
+  name: "Navigation"
+- id: open-source
+  name: "Open Source"
+- id: self-hosted
+  name: "Self-Hosted"
+- id: free-plan
+  name: "Free Plan"
+- id: fleet-management
+  name: "Fleet Management"
+- id: smb
+  name: "SMB"
+- id: freemium
+  name: "Freemium"
+- id: ev-charging
+  name: "EV Charging"
+- id: fleet
+  name: "Fleet"
+- id: energy-management
+  name: "Energy Management"
+- id: iot
+  name: "IoT"

@@ -1,0 +1,12 @@
+name: "Teletrac Navman"
+description: "GPS fleet tracking and telematics platform with dash cams, ELD, and compliance reporting. Serves transportation, construction, and government fleets. Paid subscription."
+source_url: "https://teletracnavman.com/"
+category: "GPS Tracking & Telematics"
+tags:
+  - "enterprise"
+  - "api"
+  - "eld"
+  - "dash-cam"
+icon_url: "https://icons.duckduckgo.com/ip3/teletracnavman.com.ico"
+markdown: "## Pricing\n\nEnterprise.\n\n## Links\n\n- Website: <https://teletracnavman.com/>\n"
+updated_at: "2026-11-21 20:09"

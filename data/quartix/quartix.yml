@@ -1,0 +1,12 @@
+name: "Quartix"
+description: "Vehicle tracking and fleet telematics service providing journey history, driver behavior scoring, and usage reports. Targets small and medium fleets. Paid subscription."
+source_url: "https://www.quartix.com/"
+category: "GPS Tracking & Telematics"
+tags:
+  - "paid"
+  - "api"
+  - "gps-tracking"
+  - "smb"
+icon_url: "https://icons.duckduckgo.com/ip3/www.quartix.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://www.quartix.com/>\n"
+updated_at: "2026-11-21 20:09"

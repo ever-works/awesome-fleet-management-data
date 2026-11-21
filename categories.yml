@@ -1,0 +1,12 @@
+- id: fleet-management
+  name: "Fleet Management"
+- id: gps-tracking-and-telematics
+  name: "GPS Tracking & Telematics"
+- id: fleet-maintenance
+  name: "Fleet Maintenance"
+- id: eld-and-compliance
+  name: "ELD & Compliance"
+- id: ev-fleet-tools
+  name: "EV Fleet Tools"
+- id: open-source-tracking
+  name: "Open-Source Tracking"

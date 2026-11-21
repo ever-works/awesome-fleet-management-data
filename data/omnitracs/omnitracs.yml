@@ -1,0 +1,12 @@
+name: "Omnitracs"
+description: "Fleet compliance and operations platform specializing in ELD, DVIR, driver safety, and routing. Serves large trucking and logistics enterprises. Paid enterprise subscription."
+source_url: "https://www.omnitracs.com/"
+category: "ELD & Compliance"
+tags:
+  - "enterprise"
+  - "api"
+  - "eld"
+  - "compliance"
+icon_url: "https://icons.duckduckgo.com/ip3/www.omnitracs.com.ico"
+markdown: "## Pricing\n\nEnterprise.\n\n## Links\n\n- Website: <https://www.omnitracs.com/>\n"
+updated_at: "2026-11-21 20:09"

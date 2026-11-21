@@ -1,0 +1,12 @@
+name: "Fleetio"
+description: "Fleet maintenance and operations software for tracking vehicle service, parts inventory, fuel, and work orders. Suitable for small to large fleets. Paid subscription with a free trial."
+source_url: "https://www.fleetio.com/"
+category: "Fleet Maintenance"
+tags:
+  - "paid"
+  - "api"
+  - "fleet-maintenance"
+  - "cmms"
+icon_url: "https://icons.duckduckgo.com/ip3/www.fleetio.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://www.fleetio.com/>\n"
+updated_at: "2026-11-21 20:09"

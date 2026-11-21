@@ -1,0 +1,13 @@
+name: "Motive"
+description: "Fleet management platform combining GPS tracking, ELD compliance, driver safety, and expense management. Serves trucking and mixed fleets. Paid subscription with tiered plans."
+source_url: "https://gomotive.com/"
+category: "ELD & Compliance"
+tags:
+  - "paid"
+  - "enterprise"
+  - "api"
+  - "eld"
+  - "compliance"
+icon_url: "https://icons.duckduckgo.com/ip3/gomotive.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://gomotive.com/>\n"
+updated_at: "2026-11-21 20:09"

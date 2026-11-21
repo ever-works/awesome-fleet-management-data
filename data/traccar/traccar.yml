@@ -1,0 +1,13 @@
+name: "Traccar"
+description: "Open-source GPS tracking server supporting thousands of device models. Self-hosted with web and mobile interfaces for real-time location and geofencing. Free to use under Apache 2.0."
+source_url: "https://www.traccar.org/"
+category: "Open-Source Tracking"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "free-plan"
+  - "api"
+  - "gps-tracking"
+icon_url: "https://icons.duckduckgo.com/ip3/www.traccar.org.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://www.traccar.org/>\n- Repository: <https://github.com/traccar/traccar>\n\nLicense: Apache-2.0.\n"
+updated_at: "2026-11-21 20:09"

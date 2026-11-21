@@ -1,0 +1,12 @@
+name: "Wialon"
+description: "GPS tracking and IoT telematics platform supporting vehicle monitoring, fuel control, and driver behavior analysis. Used by telematics service providers and fleets. Paid subscription."
+source_url: "https://wialon.com/"
+category: "GPS Tracking & Telematics"
+tags:
+  - "paid"
+  - "api"
+  - "telematics"
+  - "gps-tracking"
+icon_url: "https://icons.duckduckgo.com/ip3/wialon.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://wialon.com/>\n"
+updated_at: "2026-11-21 20:09"

@@ -1,0 +1,13 @@
+name: "Lytx"
+description: "Video-based safety and compliance platform for fleets, combining dash cams, ELD, and driver risk detection. Focuses on reducing collisions and regulatory violations. Paid subscription."
+source_url: "https://www.lytx.com/"
+category: "ELD & Compliance"
+tags:
+  - "enterprise"
+  - "api"
+  - "eld"
+  - "dash-cam"
+  - "ai-powered"
+icon_url: "https://icons.duckduckgo.com/ip3/www.lytx.com.ico"
+markdown: "## Pricing\n\nEnterprise.\n\n## Links\n\n- Website: <https://www.lytx.com/>\n"
+updated_at: "2026-11-21 20:09"

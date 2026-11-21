@@ -1,0 +1,12 @@
+name: "Flespi"
+description: "Telematics IoT hub that aggregates and normalizes data from GPS devices and sensors. Provides API access and plugin ecosystem for fleet platforms. Paid subscription."
+source_url: "https://flespi.io/"
+category: "GPS Tracking & Telematics"
+tags:
+  - "paid"
+  - "api"
+  - "telematics"
+  - "iot"
+icon_url: "https://icons.duckduckgo.com/ip3/flespi.io.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://flespi.io/>\n"
+updated_at: "2026-11-21 20:09"

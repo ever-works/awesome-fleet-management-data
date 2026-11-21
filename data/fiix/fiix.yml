@@ -1,0 +1,12 @@
+name: "Fiix"
+description: "Cloud-based CMMS for fleet and asset maintenance, offering work order management, scheduling, and inventory control. Part of Rockwell Automation. Paid subscription."
+source_url: "https://www.fiixsoftware.com/"
+category: "Fleet Maintenance"
+tags:
+  - "paid"
+  - "api"
+  - "fleet-maintenance"
+  - "cmms"
+icon_url: "https://icons.duckduckgo.com/ip3/www.fiixsoftware.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://www.fiixsoftware.com/>\n"
+updated_at: "2026-11-21 20:09"
